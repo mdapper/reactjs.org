@@ -1,5 +1,5 @@
 ---
-title: Learn Once, Write Anywhere
+title: Aprenda uma vez, escreva onde quiser
 order: 2
 ---
 

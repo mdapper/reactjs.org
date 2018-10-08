@@ -1,5 +1,5 @@
 ---
-title: Component-Based
+title: Baseado em componentes
 order: 1
 ---
 
